@@ -1,0 +1,20 @@
+.cont{
+    background-color: #ECD4EA;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid ;
+    border-radius: 10px;
+    width: 500px;
+    box-shadow: 1px 1px 6px 3px black;
+}
+.cont h3{
+    color: #462446;
+    font-weight: bold;
+}
+.words{
+    color: #B94A3E ;
+    font-weight: bold;
+}
+.wordcount{
+    color: red;
+}
